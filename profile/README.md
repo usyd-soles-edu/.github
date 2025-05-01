@@ -21,6 +21,7 @@ These are quick reference guides that help you remember important functions and 
 - [importing data into R](https://usyd-soles-edu.github.io/cheatsheet-r-data-import/)
 - [boxplots](https://usyd-soles-edu.github.io/cheatsheet-R-boxplot/) | [scatterplots](https://usyd-soles-edu.github.io/cheatsheet-r-scatterplot/) | [histograms](https://usyd-soles-edu.github.io/cheatsheet-r-histogram/)
 - [one-sample *t*-test](https://usyd-soles-edu.github.io/cheatsheet-r-ttest/) | [two-sample *t*-test](https://usyd-soles-edu.github.io/cheatsheet-r-two-sample-ttest/) | [anova](https://usyd-soles-edu.github.io/cheatsheet-r-anova/) | [regression](https://usyd-soles-edu.github.io/cheatsheet-r-regression/)
+- [Publishing ANOVA/regression tables in R](https://usyd-soles-edu.github.io/cheatsheet-r-html-tables/)
 
 #### SPSS
 
@@ -29,6 +30,7 @@ These are quick reference guides that help you remember important functions and 
 #### Jamovi
 
 - [boxplots](https://usyd-soles-edu.github.io/cheatsheet-jamovi-boxplot/) | [scatterplots](https://usyd-soles-edu.github.io/cheatsheet-jamovi-scatterplot/) | [histograms](https://usyd-soles-edu.github.io/cheatsheet-jamovi-histogram/)
+- [t-tests/anova](https://usyd-soles-edu.github.io/cheatsheet-jamovi-anova/) | regression
 
 ### Linked organisations
 - [ENVX1002/ENVX2001](https://github.com/ENVX-resources)
