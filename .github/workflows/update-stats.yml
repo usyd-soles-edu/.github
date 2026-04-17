@@ -1,0 +1,24 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # every Sunday at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Aggregate stats
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: bash scripts/update-stats.sh
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'stats: weekly auto-update'
+          file_pattern: 'profile/README.md'

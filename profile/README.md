@@ -10,7 +10,23 @@ School of Life and Environmental Sciences, The University of Sydney
 
 </div>
 
-This is the open educational resources repository of the School of Life and Environmental Sciences at the University of Sydney. Founded in 2023 by Dr Januar Harianto, it is now maintained by a team of academics and students. The repository directly supports three units of study and provides shared resources used across the School and beyond. The collection includes lecture slides, lab worksheets, tutorials, interactive widgets, cheatsheets for R, Jamovi, and SPSS, and Quarto templates for staff building their own courses. Everything is freely licensed and open to contributions.
+This is the open educational resources repository of the School of Life and Environmental Sciences at the University of Sydney. The repository directly supports three units of study and provides shared resources used across the School and beyond. The collection includes lecture slides, lab worksheets, tutorials, interactive widgets, cheatsheets for R, Jamovi, and SPSS, and Quarto templates for staff building their own courses. Everything is freely licensed and open to contributions.
+
+<!-- STATS:START -->
+<div align="center">
+
+![Students/year](https://img.shields.io/badge/Students%2Fyear-~1500-1a355e?style=for-the-badge)
+![Open courses](https://img.shields.io/badge/Open_courses-3-e64626?style=for-the-badge)
+![Contributors](https://img.shields.io/badge/Contributors-7-8f9ec9?style=for-the-badge)
+
+![Stars](https://img.shields.io/badge/Stars-67-fcc419?style=for-the-badge)
+![Forks](https://img.shields.io/badge/Forks-100-2ea043?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-65-276DC3?style=for-the-badge)
+
+<sub>Auto-updated weekly · last updated 2026-04-17</sub>
+
+</div>
+<!-- STATS:END -->
 
 ### Cheatsheets
 
