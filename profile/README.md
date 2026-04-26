@@ -10,7 +10,7 @@ School of Life and Environmental Sciences, The University of Sydney
 
 </div>
 
-This is the open educational resources repository of the School of Life and Environmental Sciences at the University of Sydney. The repository directly supports three units of study and provides shared resources used across the School and beyond. The collection includes lecture slides, lab worksheets, tutorials, interactive widgets, cheatsheets for R, Jamovi, and SPSS, and Quarto templates for staff building their own courses. Everything is freely licensed and open to contributions.
+This is the open educational resources repository of the School of Life and Environmental Sciences at the University of Sydney. The repository directly supports three units of study and provides shared resources used across the Faculty (e.g. BIOL1007, WILD2001, DATA1001) and beyond. The collection includes lecture slides, lab worksheets, tutorials, interactive widgets, cheatsheets for R, Jamovi, and SPSS, and Quarto templates for staff building their own courses. Everything is freely licensed and open to contributions.
 
 <!-- STATS:START -->
 <div align="center">
