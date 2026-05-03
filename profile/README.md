@@ -21,9 +21,9 @@ This is the open educational resources repository of the School of Life and Envi
 
 ![Stars](https://img.shields.io/badge/Stars-67-fcc419?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-100-2ea043?style=for-the-badge)
-![Merged PRs](https://img.shields.io/badge/Merged_PRs-73-276DC3?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-75-276DC3?style=for-the-badge)
 
-<sub>Auto-updated weekly · last updated 2026-04-26</sub>
+<sub>Auto-updated weekly · last updated 2026-05-03</sub>
 
 </div>
 <!-- STATS:END -->
