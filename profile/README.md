@@ -19,11 +19,11 @@ This is the open educational resources repository of the School of Life and Envi
 ![Open courses](https://img.shields.io/badge/Open_courses-3-e64626?style=for-the-badge)
 ![Contributors](https://img.shields.io/badge/Contributors-7-8f9ec9?style=for-the-badge)
 
-![Stars](https://img.shields.io/badge/Stars-68-fcc419?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-69-fcc419?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-100-2ea043?style=for-the-badge)
 ![Merged PRs](https://img.shields.io/badge/Merged_PRs-75-276DC3?style=for-the-badge)
 
-<sub>Auto-updated weekly · last updated 2026-05-10</sub>
+<sub>Auto-updated weekly · last updated 2026-05-18</sub>
 
 </div>
 <!-- STATS:END -->
