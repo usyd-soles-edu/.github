@@ -20,10 +20,10 @@ This is the open educational resources repository of the School of Life and Envi
 ![Contributors](https://img.shields.io/badge/Contributors-7-8f9ec9?style=for-the-badge)
 
 ![Stars](https://img.shields.io/badge/Stars-72-fcc419?style=for-the-badge)
-![Forks](https://img.shields.io/badge/Forks-106-2ea043?style=for-the-badge)
-![Merged PRs](https://img.shields.io/badge/Merged_PRs-82-276DC3?style=for-the-badge)
+![Forks](https://img.shields.io/badge/Forks-107-2ea043?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-103-276DC3?style=for-the-badge)
 
-<sub>Auto-updated weekly · last updated 2026-06-15</sub>
+<sub>Auto-updated weekly · last updated 2026-06-22</sub>
 
 </div>
 <!-- STATS:END -->
