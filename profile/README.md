@@ -34,11 +34,11 @@ This is the open educational resources repository of the School of Life and Envi
 |:------|:--|:-----|:-------|
 | Importing data | [R](https://usyd-soles-edu.github.io/cheatsheet-r-data-import/) | — | — |
 | Boxplots | [R](https://usyd-soles-edu.github.io/cheatsheet-R-boxplot/) | [SPSS](https://envx-resources.github.io/cheatsheet-spss-boxplot/) | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-boxplot/) |
-| Scatterplots | [R](https://usyd-soles-edu.github.io/cheatsheet-r-scatterplot/) | [SPSS](https://usyd-soles-edu.github.io/cheatsheet-spss-scatterplot/) | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-scatterplot/) |
+| Scatterplots | [R](https://usyd-soles-edu.github.io/cheatsheet-r-scatterplot/) | [SPSS](https://usyd-soles-edu.github.io/cheatsheets/spss/scatterplot/) | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-scatterplot/) |
 | Histograms | [R](https://usyd-soles-edu.github.io/cheatsheet-r-histogram/) | — | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-histogram/) |
 | One-sample *t*-test | [R](https://usyd-soles-edu.github.io/cheatsheet-r-ttest/) | — | — |
 | Two-sample *t*-test | [R](https://usyd-soles-edu.github.io/cheatsheet-r-two-sample-ttest/) | — | — |
-| ANOVA | [R](https://usyd-soles-edu.github.io/cheatsheet-r-anova/) | — | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-anova/) |
+| ANOVA | [R](https://usyd-soles-edu.github.io/cheatsheets/r/anova/) | — | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-anova/) |
 | Regression / Linear models | [R](https://usyd-soles-edu.github.io/cheatsheet-r-regression/) | — | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-linearmodels/) |
 | Publishing tables | [R](https://usyd-soles-edu.github.io/cheatsheet-r-html-tables/) | — | — |
 | Flexplot | — | — | [Jamovi](https://usyd-soles-edu.github.io/cheatsheet-jamovi-flexplot/) |
