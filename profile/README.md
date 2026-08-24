@@ -23,7 +23,7 @@ This is the open educational resources repository of the School of Life and Envi
 ![Forks](https://img.shields.io/badge/Forks-108-2ea043?style=for-the-badge)
 ![Merged PRs](https://img.shields.io/badge/Merged_PRs-119-276DC3?style=for-the-badge)
 
-<sub>Auto-updated weekly · last updated 2026-08-17</sub>
+<sub>Auto-updated weekly · last updated 2026-08-24</sub>
 
 </div>
 <!-- STATS:END -->
